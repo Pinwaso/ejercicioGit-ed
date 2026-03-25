@@ -1,1 +1,1 @@
-# ejercicioGit-ed
+# repositorio publico llamado ejercicioGit-ed 
